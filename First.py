@@ -1,3 +1,1 @@
-# q = "I am doing {}".format("great")
-q= input().format("great")
-print(q)
+# item = [row[0] for row in q]
